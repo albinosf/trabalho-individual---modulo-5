@@ -16,7 +16,7 @@ Tableau Desktop: Utilizado para criar visualizações interativas e painéis din
 Fonte de Dados: Os dados foram extraídos de fontes internas da empresa, garantindo confidencialidade e integridade das informações.
 
 
-Baixe o arquivo do Tableau Public/Server deste repositório.
+Baixe o arquivo do Tableau Public/Server.
 Abra o Tableau Desktop e carregue o arquivo.
 Explore os dashboards interativos para obter insights sobre os motivos de saída e os impactos financeiros.
 Analise as soluções propostas e adapte-as conforme as necessidades específicas da sua organização.
