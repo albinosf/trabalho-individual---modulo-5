@@ -17,6 +17,7 @@ Fonte de Dados: Os dados foram extraídos de fontes internas da empresa, garanti
 
 
 Baixe o arquivo do Tableau Public/Server.
+
 Abra o Tableau Desktop e carregue o arquivo.
 Explore os dashboards interativos para obter insights sobre os motivos de saída e os impactos financeiros.
 Analise as soluções propostas e adapte-as conforme as necessidades específicas da sua organização.
