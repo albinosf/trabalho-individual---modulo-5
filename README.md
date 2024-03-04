@@ -11,6 +11,7 @@ Este projeto utiliza a ferramenta de visualização de dados Tableau para explor
 Nosso foco é fornecer recursos valiosos para a gestão de recursos humanos, identificando áreas de melhoria e propondo estratégias para retenção de talentos.
 
 Ferramentas Utilizadas
+
 Tableau Desktop: Utilizado para criar visualizações interativas e painéis dinâmicos.
 Fonte de Dados: Os dados foram extraídos de fontes internas da empresa, garantindo confidencialidade e integridade das informações.
 
