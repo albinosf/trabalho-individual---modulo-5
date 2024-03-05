@@ -1,6 +1,6 @@
-# Análise de Saída de Funcionários - Dashboard usando Tableau
+# Análise de Saída de Funcionários - Dashboard Tableau
 
-Análise de Saída de Funcionários - Dashboard usando Tableau
+Análise de Saída de Funcionários - Dashboard Tableau
 
 
 O objetivo deste projeto é analisar as razões pelas quais os funcionários estão deixando a empresa e avaliar seus impactos.
